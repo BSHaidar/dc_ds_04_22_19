@@ -101,6 +101,7 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Lambda Functions - Lab
 
@@ -114,6 +115,43 @@ You will be able to:
 * Use lambda functions to transform data within lists and DataFrames
 
 ## Lambda Functions
+=======
+### Week IX
+
+|                 | Thirty six                                       | Thirty seven                                       | Thirty eight                                     | Thirty nine                                      | Forty                                     |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
+| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+
+
+
+### Week X
+
+|                 | Forty one                                       | Forty two                                       | Forty three                                     | Forty four                                      | Forty five                                     |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
+| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+
+
+### Week XI
+
+|                 | Forty six                                       | Forty seven                                       | Forty eight                                     | Forty nine                                      | Fifty                                    |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_NN.md">KNN</a> <br><a href=""></a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/K_means.md"> K means</a> <br><a href=""></a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/PCA.md">PCA</a><br><a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_5/morning_warm_up/decision_tree.md">Decision trees</a> <br><a href=""></a> |<a href=""></a><br><a href=""></a>  ||
+| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href="r"></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
+
+
+
+>>>>>>> e2ad699c596f906ac231cd95a14104529f8fd1bf
 
 
 ```python
